@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.equipo4dsm53"
+        applicationId "com.apssdsm54"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
